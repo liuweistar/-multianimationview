@@ -5,7 +5,7 @@
 //  Created by 刘伟 on 16/7/19.
 //  Copyright © 2016年 刘伟. All rights reserved.
 //
-
+#warning 如果运行报错，请先command＋shift＋k ，clean一下！
 #import "ViewController.h"
 #import "LWMultitransitionView.h"
 @interface ViewController ()<LWMultitransitionDelegate>
