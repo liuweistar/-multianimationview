@@ -17,6 +17,7 @@
         self.lw_imageArr = imageArr;
         self.lw_titleArr = titleArr;
         //创建 UI
+        
         [self setupUI];
        //    //创建定时器
         self.lw_timer = [NSTimer scheduledTimerWithTimeInterval:2 target:self selector:@selector(scrollChange:) userInfo:nil repeats:YES];
