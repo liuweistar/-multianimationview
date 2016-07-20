@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B08444125E22B1612A3B45902D23DBB05C648237",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B08444125E22B1612A3B45902D23DBB05C648237" : 0,
+    "1A7008D32680FC78FFA3A2CE3314DE82D4A1DC1F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF8F9208-C4DC-4F43-A167-B7920F82B2A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B08444125E22B1612A3B45902D23DBB05C648237" : "-multianimationview\/",
+    "1A7008D32680FC78FFA3A2CE3314DE82D4A1DC1F" : "%E8%B1%86%E7%93%A3%E5%AD%A6%E4%B9%A0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "多转场图片轮播器",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "多转场图片轮播器.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/didu123\/doubt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A7008D32680FC78FFA3A2CE3314DE82D4A1DC1F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/liuweistar\/-multianimationview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B08444125E22B1612A3B45902D23DBB05C648237"
+    }
+  ]
+}
