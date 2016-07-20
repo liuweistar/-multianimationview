@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01061E281D3F135B006F9CA5 /* LWMultitransitionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01061E271D3F135B006F9CA5 /* LWMultitransitionView.m */; };
 		01FC7AA71D3DCC8E0046A314 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01FC7AA61D3DCC8E0046A314 /* main.m */; };
 		01FC7AAA1D3DCC8E0046A314 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01FC7AA91D3DCC8E0046A314 /* AppDelegate.m */; };
 		01FC7AAD1D3DCC8E0046A314 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01FC7AAC1D3DCC8E0046A314 /* ViewController.m */; };
 		01FC7AB01D3DCC8E0046A314 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01FC7AAE1D3DCC8E0046A314 /* Main.storyboard */; };
 		01FC7AB21D3DCC8E0046A314 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01FC7AB11D3DCC8E0046A314 /* Assets.xcassets */; };
 		01FC7AB51D3DCC8E0046A314 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01FC7AB31D3DCC8E0046A314 /* LaunchScreen.storyboard */; };
-		01FC7ABE1D3DCD6A0046A314 /* LWMultitransitionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01FC7ABD1D3DCD6A0046A314 /* LWMultitransitionView.m */; };
 		01FC7AC31D3DD4E50046A314 /* 政策库0@2x.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 01FC7AC11D3DD4E50046A314 /* 政策库0@2x.pdf */; };
 		01FC7AE51D3DD5380046A314 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 01FC7AC51D3DD5380046A314 /* LICENSE */; };
 		01FC7AE61D3DD5380046A314 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 01FC7AC61D3DD5380046A314 /* README.md */; };
@@ -47,6 +47,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01061E261D3F135B006F9CA5 /* LWMultitransitionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LWMultitransitionView.h; sourceTree = "<group>"; };
+		01061E271D3F135B006F9CA5 /* LWMultitransitionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LWMultitransitionView.m; sourceTree = "<group>"; };
 		01FC7AA21D3DCC8E0046A314 /* 多转场图片轮播器.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "多转场图片轮播器.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01FC7AA61D3DCC8E0046A314 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01FC7AA81D3DCC8E0046A314 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -57,8 +59,6 @@
 		01FC7AB11D3DCC8E0046A314 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01FC7AB41D3DCC8E0046A314 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01FC7AB61D3DCC8E0046A314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01FC7ABC1D3DCD6A0046A314 /* LWMultitransitionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LWMultitransitionView.h; path = "../../豆瓣学习/LWMultitransitionView.h"; sourceTree = "<group>"; };
-		01FC7ABD1D3DCD6A0046A314 /* LWMultitransitionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LWMultitransitionView.m; path = "../../豆瓣学习/LWMultitransitionView.m"; sourceTree = "<group>"; };
 		01FC7AC11D3DD4E50046A314 /* 政策库0@2x.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "政策库0@2x.pdf"; path = "政策库0.imageset/政策库0@2x.pdf"; sourceTree = "<group>"; };
 		01FC7AC51D3DD5380046A314 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		01FC7AC61D3DD5380046A314 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -157,8 +157,8 @@
 				01FC7AA91D3DCC8E0046A314 /* AppDelegate.m */,
 				01FC7AAB1D3DCC8E0046A314 /* ViewController.h */,
 				01FC7AAC1D3DCC8E0046A314 /* ViewController.m */,
-				01FC7ABC1D3DCD6A0046A314 /* LWMultitransitionView.h */,
-				01FC7ABD1D3DCD6A0046A314 /* LWMultitransitionView.m */,
+				01061E261D3F135B006F9CA5 /* LWMultitransitionView.h */,
+				01061E271D3F135B006F9CA5 /* LWMultitransitionView.m */,
 				01FC7AAE1D3DCC8E0046A314 /* Main.storyboard */,
 				01FC7AB11D3DCC8E0046A314 /* Assets.xcassets */,
 				01FC7AF51D3DD5CB0046A314 /* 透明背景.png */,
@@ -341,6 +341,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01061E281D3F135B006F9CA5 /* LWMultitransitionView.m in Sources */,
 				01FC7AF21D3DD5380046A314 /* UIImageView+HighlightedWebCache.m in Sources */,
 				01FC7AF11D3DD5380046A314 /* UIImage+MultiFormat.m in Sources */,
 				01FC7B1B1D3DD5EB0046A314 /* NSArray+MASAdditions.m in Sources */,
@@ -363,7 +364,6 @@
 				01FC7AEB1D3DD5380046A314 /* SDWebImageDownloader.m in Sources */,
 				01FC7AEF1D3DD5380046A314 /* UIButton+WebCache.m in Sources */,
 				01FC7B1D1D3DD5EB0046A314 /* View+MASAdditions.m in Sources */,
-				01FC7ABE1D3DCD6A0046A314 /* LWMultitransitionView.m in Sources */,
 				01FC7AE71D3DD5380046A314 /* NSData+ImageContentType.m in Sources */,
 				01FC7AA71D3DCC8E0046A314 /* main.m in Sources */,
 				01FC7AF31D3DD5380046A314 /* UIImageView+WebCache.m in Sources */,
